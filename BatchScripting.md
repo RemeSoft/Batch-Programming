@@ -1,6 +1,6 @@
 # Batch Scripting
 
-Batch Scripting is a simple file, that store command can be executed in a windows environment. I learn Batch Programming form this play list
+Batch Scripting is a simple file, that store command can be executed in a windows environment. I learn Batch Scripting form this play list
 https://youtube.com/playlist?list=PL8WTXLSrtyWrQ5Tl50zkTeRc3bATyHRbX
 
 ### Features
