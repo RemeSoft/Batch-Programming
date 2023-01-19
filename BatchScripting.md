@@ -1,10 +1,11 @@
 # Batch Scripting
 
-Batch Scripting is a simple file, that store command can be executed in a windows environment.  
+Batch Scripting is a simple file, that store command can be executed in a windows environment. I learn Batch Programming form this play list
+https://youtube.com/playlist?list=PL8WTXLSrtyWrQ5Tl50zkTeRc3bATyHRbX
 
 ### Features
 
--  Using Batch, we can do I/O operations that can be processed further.
+- Using Batch, we can do I/O operations that can be processed further.
 - We have various control loops for automatic (For, if, while, etc).
 - We can play around with Arrays and Functions, which are the same advanced concepts.
 - I support RegEx and we can club this Perl.
